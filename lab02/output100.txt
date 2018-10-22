@@ -1,0 +1,613 @@
+Wejscie:
+people_number:  10000
+hotels_number:  100
+days_number:  100
+probability:  0.1
+amount_repetitions:  100
+*********************************
+Iteracja:  1
+Podejrzane pary osob i dni:  2501.0
+Podejrzane pary:  2485
+Histogram:  {1.0: 497095, 2.0: 2477, 3.0: 8}
+Liczba podejrzanych osob:  3672.0
+***************************************
+Iteracja:  2
+Podejrzane pary osob i dni:  2434.0
+Podejrzane pary:  2420
+Histogram:  {1.0: 491076, 2.0: 2413, 3.0: 7}
+Liczba podejrzanych osob:  3566.0
+***************************************
+Iteracja:  3
+Podejrzane pary osob i dni:  2448.0
+Podejrzane pary:  2430
+Histogram:  {1.0: 494263, 2.0: 2421, 3.0: 9}
+Liczba podejrzanych osob:  3561.0
+***************************************
+Iteracja:  4
+Podejrzane pary osob i dni:  2452.0
+Podejrzane pary:  2429
+Histogram:  {1.0: 493280, 2.0: 2419, 3.0: 9, 4.0: 1}
+Liczba podejrzanych osob:  3604.0
+***************************************
+Iteracja:  5
+Podejrzane pary osob i dni:  2516.0
+Podejrzane pary:  2504
+Histogram:  {1.0: 499185, 2.0: 2498, 3.0: 6}
+Liczba podejrzanych osob:  3703.0
+***************************************
+Iteracja:  6
+Podejrzane pary osob i dni:  2487.0
+Podejrzane pary:  2475
+Histogram:  {1.0: 496630, 2.0: 2469, 3.0: 6}
+Liczba podejrzanych osob:  3594.0
+***************************************
+Iteracja:  7
+Podejrzane pary osob i dni:  2447.0
+Podejrzane pary:  2439
+Histogram:  {1.0: 494923, 2.0: 2435, 3.0: 4}
+Liczba podejrzanych osob:  3572.0
+***************************************
+Iteracja:  8
+Podejrzane pary osob i dni:  2449.0
+Podejrzane pary:  2427
+Histogram:  {1.0: 499950, 2.0: 2416, 3.0: 11}
+Liczba podejrzanych osob:  3581.0
+***************************************
+Iteracja:  9
+Podejrzane pary osob i dni:  2490.0
+Podejrzane pary:  2466
+Histogram:  {1.0: 494619, 2.0: 2454, 3.0: 12}
+Liczba podejrzanych osob:  3654.0
+***************************************
+Iteracja:  10
+Podejrzane pary osob i dni:  2308.0
+Podejrzane pary:  2296
+Histogram:  {1.0: 491555, 2.0: 2290, 3.0: 6}
+Liczba podejrzanych osob:  3438.0
+***************************************
+Iteracja:  11
+Podejrzane pary osob i dni:  2494.0
+Podejrzane pary:  2476
+Histogram:  {1.0: 496489, 2.0: 2467, 3.0: 9}
+Liczba podejrzanych osob:  3645.0
+***************************************
+Iteracja:  12
+Podejrzane pary osob i dni:  2551.0
+Podejrzane pary:  2523
+Histogram:  {1.0: 494192, 2.0: 2509, 3.0: 14}
+Liczba podejrzanych osob:  3670.0
+***************************************
+Iteracja:  13
+Podejrzane pary osob i dni:  2462.0
+Podejrzane pary:  2456
+Histogram:  {1.0: 495943, 2.0: 2453, 3.0: 3}
+Liczba podejrzanych osob:  3651.0
+***************************************
+Iteracja:  14
+Podejrzane pary osob i dni:  2416.0
+Podejrzane pary:  2406
+Histogram:  {1.0: 490403, 2.0: 2401, 3.0: 5}
+Liczba podejrzanych osob:  3589.0
+***************************************
+Iteracja:  15
+Podejrzane pary osob i dni:  2415.0
+Podejrzane pary:  2397
+Histogram:  {1.0: 495577, 2.0: 2388, 3.0: 9}
+Liczba podejrzanych osob:  3579.0
+***************************************
+Iteracja:  16
+Podejrzane pary osob i dni:  2518.0
+Podejrzane pary:  2502
+Histogram:  {1.0: 497790, 2.0: 2494, 3.0: 8}
+Liczba podejrzanych osob:  3690.0
+***************************************
+Iteracja:  17
+Podejrzane pary osob i dni:  2464.0
+Podejrzane pary:  2450
+Histogram:  {1.0: 493697, 2.0: 2443, 3.0: 7}
+Liczba podejrzanych osob:  3629.0
+***************************************
+Iteracja:  18
+Podejrzane pary osob i dni:  2598.0
+Podejrzane pary:  2582
+Histogram:  {1.0: 495060, 2.0: 2574, 3.0: 8}
+Liczba podejrzanych osob:  3768.0
+***************************************
+Iteracja:  19
+Podejrzane pary osob i dni:  2534.0
+Podejrzane pary:  2516
+Histogram:  {1.0: 497002, 2.0: 2507, 3.0: 9}
+Liczba podejrzanych osob:  3699.0
+***************************************
+Iteracja:  20
+Podejrzane pary osob i dni:  2456.0
+Podejrzane pary:  2440
+Histogram:  {1.0: 498468, 2.0: 2432, 3.0: 8}
+Liczba podejrzanych osob:  3614.0
+***************************************
+Iteracja:  21
+Podejrzane pary osob i dni:  2442.0
+Podejrzane pary:  2428
+Histogram:  {1.0: 495589, 2.0: 2421, 3.0: 7}
+Liczba podejrzanych osob:  3582.0
+***************************************
+Iteracja:  22
+Podejrzane pary osob i dni:  2482.0
+Podejrzane pary:  2462
+Histogram:  {1.0: 492863, 2.0: 2452, 3.0: 10}
+Liczba podejrzanych osob:  3664.0
+***************************************
+Iteracja:  23
+Podejrzane pary osob i dni:  2551.0
+Podejrzane pary:  2535
+Histogram:  {1.0: 493611, 2.0: 2527, 3.0: 8}
+Liczba podejrzanych osob:  3728.0
+***************************************
+Iteracja:  24
+Podejrzane pary osob i dni:  2453.0
+Podejrzane pary:  2443
+Histogram:  {1.0: 495300, 2.0: 2438, 3.0: 5}
+Liczba podejrzanych osob:  3652.0
+***************************************
+Iteracja:  25
+Podejrzane pary osob i dni:  2458.0
+Podejrzane pary:  2446
+Histogram:  {1.0: 497679, 2.0: 2440, 3.0: 6}
+Liczba podejrzanych osob:  3612.0
+***************************************
+Iteracja:  26
+Podejrzane pary osob i dni:  2430.0
+Podejrzane pary:  2416
+Histogram:  {1.0: 493692, 2.0: 2409, 3.0: 7}
+Liczba podejrzanych osob:  3591.0
+***************************************
+Iteracja:  27
+Podejrzane pary osob i dni:  2725.0
+Podejrzane pary:  2705
+Histogram:  {1.0: 505454, 2.0: 2695, 3.0: 10}
+Liczba podejrzanych osob:  3888.0
+***************************************
+Iteracja:  28
+Podejrzane pary osob i dni:  2548.0
+Podejrzane pary:  2540
+Histogram:  {1.0: 498502, 2.0: 2536, 3.0: 4}
+Liczba podejrzanych osob:  3700.0
+***************************************
+Iteracja:  29
+Podejrzane pary osob i dni:  2507.0
+Podejrzane pary:  2499
+Histogram:  {1.0: 489898, 2.0: 2495, 3.0: 4}
+Liczba podejrzanych osob:  3666.0
+***************************************
+Iteracja:  30
+Podejrzane pary osob i dni:  2521.0
+Podejrzane pary:  2509
+Histogram:  {1.0: 500891, 2.0: 2503, 3.0: 6}
+Liczba podejrzanych osob:  3661.0
+***************************************
+Iteracja:  31
+Podejrzane pary osob i dni:  2455.0
+Podejrzane pary:  2435
+Histogram:  {1.0: 493172, 2.0: 2425, 3.0: 10}
+Liczba podejrzanych osob:  3610.0
+***************************************
+Iteracja:  32
+Podejrzane pary osob i dni:  2549.0
+Podejrzane pary:  2535
+Histogram:  {1.0: 495219, 2.0: 2528, 3.0: 7}
+Liczba podejrzanych osob:  3698.0
+***************************************
+Iteracja:  33
+Podejrzane pary osob i dni:  2496.0
+Podejrzane pary:  2480
+Histogram:  {1.0: 496713, 2.0: 2472, 3.0: 8}
+Liczba podejrzanych osob:  3608.0
+***************************************
+Iteracja:  34
+Podejrzane pary osob i dni:  2475.0
+Podejrzane pary:  2453
+Histogram:  {1.0: 491569, 2.0: 2442, 3.0: 11}
+Liczba podejrzanych osob:  3627.0
+***************************************
+Iteracja:  35
+Podejrzane pary osob i dni:  2344.0
+Podejrzane pary:  2333
+Histogram:  {1.0: 495927, 2.0: 2329, 4.0: 1, 3.0: 3}
+Liczba podejrzanych osob:  3472.0
+***************************************
+Iteracja:  36
+Podejrzane pary osob i dni:  2462.0
+Podejrzane pary:  2448
+Histogram:  {1.0: 494928, 2.0: 2441, 3.0: 7}
+Liczba podejrzanych osob:  3655.0
+***************************************
+Iteracja:  37
+Podejrzane pary osob i dni:  2431.0
+Podejrzane pary:  2413
+Histogram:  {1.0: 493014, 2.0: 2404, 3.0: 9}
+Liczba podejrzanych osob:  3585.0
+***************************************
+Iteracja:  38
+Podejrzane pary osob i dni:  2475.0
+Podejrzane pary:  2453
+Histogram:  {1.0: 496020, 2.0: 2442, 3.0: 11}
+Liczba podejrzanych osob:  3610.0
+***************************************
+Iteracja:  39
+Podejrzane pary osob i dni:  2458.0
+Podejrzane pary:  2436
+Histogram:  {1.0: 495345, 2.0: 2425, 3.0: 11}
+Liczba podejrzanych osob:  3600.0
+***************************************
+Iteracja:  40
+Podejrzane pary osob i dni:  2493.0
+Podejrzane pary:  2471
+Histogram:  {1.0: 489590, 2.0: 2460, 3.0: 11}
+Liczba podejrzanych osob:  3652.0
+***************************************
+Iteracja:  41
+Podejrzane pary osob i dni:  2586.0
+Podejrzane pary:  2570
+Histogram:  {1.0: 500981, 2.0: 2562, 3.0: 8}
+Liczba podejrzanych osob:  3723.0
+***************************************
+Iteracja:  42
+Podejrzane pary osob i dni:  2546.0
+Podejrzane pary:  2526
+Histogram:  {1.0: 496458, 2.0: 2516, 3.0: 10}
+Liczba podejrzanych osob:  3713.0
+***************************************
+Iteracja:  43
+Podejrzane pary osob i dni:  2410.0
+Podejrzane pary:  2396
+Histogram:  {1.0: 496618, 2.0: 2389, 3.0: 7}
+Liczba podejrzanych osob:  3566.0
+***************************************
+Iteracja:  44
+Podejrzane pary osob i dni:  2429.0
+Podejrzane pary:  2409
+Histogram:  {1.0: 492824, 2.0: 2399, 3.0: 10}
+Liczba podejrzanych osob:  3544.0
+***************************************
+Iteracja:  45
+Podejrzane pary osob i dni:  2527.0
+Podejrzane pary:  2504
+Histogram:  {1.0: 494638, 2.0: 2494, 3.0: 9, 4.0: 1}
+Liczba podejrzanych osob:  3660.0
+***************************************
+Iteracja:  46
+Podejrzane pary osob i dni:  2439.0
+Podejrzane pary:  2421
+Histogram:  {1.0: 496263, 2.0: 2412, 3.0: 9}
+Liczba podejrzanych osob:  3571.0
+***************************************
+Iteracja:  47
+Podejrzane pary osob i dni:  2448.0
+Podejrzane pary:  2436
+Histogram:  {1.0: 489575, 2.0: 2430, 3.0: 6}
+Liczba podejrzanych osob:  3629.0
+***************************************
+Iteracja:  48
+Podejrzane pary osob i dni:  2433.0
+Podejrzane pary:  2417
+Histogram:  {1.0: 495219, 2.0: 2409, 3.0: 8}
+Liczba podejrzanych osob:  3612.0
+***************************************
+Iteracja:  49
+Podejrzane pary osob i dni:  2501.0
+Podejrzane pary:  2475
+Histogram:  {1.0: 491731, 2.0: 2462, 3.0: 13}
+Liczba podejrzanych osob:  3632.0
+***************************************
+Iteracja:  50
+Podejrzane pary osob i dni:  2423.0
+Podejrzane pary:  2405
+Histogram:  {1.0: 497300, 2.0: 2396, 3.0: 9}
+Liczba podejrzanych osob:  3564.0
+***************************************
+Iteracja:  51
+Podejrzane pary osob i dni:  2444.0
+Podejrzane pary:  2428
+Histogram:  {1.0: 497109, 2.0: 2420, 3.0: 8}
+Liczba podejrzanych osob:  3605.0
+***************************************
+Iteracja:  52
+Podejrzane pary osob i dni:  2462.0
+Podejrzane pary:  2440
+Histogram:  {1.0: 496356, 2.0: 2429, 3.0: 11}
+Liczba podejrzanych osob:  3612.0
+***************************************
+Iteracja:  53
+Podejrzane pary osob i dni:  2512.0
+Podejrzane pary:  2504
+Histogram:  {1.0: 494636, 2.0: 2500, 3.0: 4}
+Liczba podejrzanych osob:  3741.0
+***************************************
+Iteracja:  54
+Podejrzane pary osob i dni:  2517.0
+Podejrzane pary:  2491
+Histogram:  {1.0: 499615, 2.0: 2478, 3.0: 13}
+Liczba podejrzanych osob:  3661.0
+***************************************
+Iteracja:  55
+Podejrzane pary osob i dni:  2453.0
+Podejrzane pary:  2439
+Histogram:  {1.0: 491705, 2.0: 2432, 3.0: 7}
+Liczba podejrzanych osob:  3649.0
+***************************************
+Iteracja:  56
+Podejrzane pary osob i dni:  2423.0
+Podejrzane pary:  2415
+Histogram:  {1.0: 491933, 2.0: 2411, 3.0: 4}
+Liczba podejrzanych osob:  3576.0
+***************************************
+Iteracja:  57
+Podejrzane pary osob i dni:  2507.0
+Podejrzane pary:  2485
+Histogram:  {1.0: 493508, 2.0: 2474, 3.0: 11}
+Liczba podejrzanych osob:  3693.0
+***************************************
+Iteracja:  58
+Podejrzane pary osob i dni:  2432.0
+Podejrzane pary:  2428
+Histogram:  {1.0: 494196, 2.0: 2426, 3.0: 2}
+Liczba podejrzanych osob:  3547.0
+***************************************
+Iteracja:  59
+Podejrzane pary osob i dni:  2496.0
+Podejrzane pary:  2488
+Histogram:  {1.0: 495164, 2.0: 2484, 3.0: 4}
+Liczba podejrzanych osob:  3642.0
+***************************************
+Iteracja:  60
+Podejrzane pary osob i dni:  2500.0
+Podejrzane pary:  2486
+Histogram:  {1.0: 492128, 2.0: 2479, 3.0: 7}
+Liczba podejrzanych osob:  3652.0
+***************************************
+Iteracja:  61
+Podejrzane pary osob i dni:  2519.0
+Podejrzane pary:  2509
+Histogram:  {1.0: 494109, 2.0: 2504, 3.0: 5}
+Liczba podejrzanych osob:  3661.0
+***************************************
+Iteracja:  62
+Podejrzane pary osob i dni:  2507.0
+Podejrzane pary:  2491
+Histogram:  {1.0: 490451, 2.0: 2483, 3.0: 8}
+Liczba podejrzanych osob:  3701.0
+***************************************
+Iteracja:  63
+Podejrzane pary osob i dni:  2388.0
+Podejrzane pary:  2378
+Histogram:  {1.0: 487665, 2.0: 2373, 3.0: 5}
+Liczba podejrzanych osob:  3538.0
+***************************************
+Iteracja:  64
+Podejrzane pary osob i dni:  2419.0
+Podejrzane pary:  2413
+Histogram:  {1.0: 495031, 2.0: 2410, 3.0: 3}
+Liczba podejrzanych osob:  3590.0
+***************************************
+Iteracja:  65
+Podejrzane pary osob i dni:  2531.0
+Podejrzane pary:  2497
+Histogram:  {1.0: 492568, 2.0: 2480, 3.0: 17}
+Liczba podejrzanych osob:  3663.0
+***************************************
+Iteracja:  66
+Podejrzane pary osob i dni:  2414.0
+Podejrzane pary:  2386
+Histogram:  {1.0: 492170, 2.0: 2372, 3.0: 14}
+Liczba podejrzanych osob:  3581.0
+***************************************
+Iteracja:  67
+Podejrzane pary osob i dni:  2520.0
+Podejrzane pary:  2504
+Histogram:  {1.0: 494565, 2.0: 2496, 3.0: 8}
+Liczba podejrzanych osob:  3695.0
+***************************************
+Iteracja:  68
+Podejrzane pary osob i dni:  2436.0
+Podejrzane pary:  2420
+Histogram:  {1.0: 491671, 2.0: 2412, 3.0: 8}
+Liczba podejrzanych osob:  3559.0
+***************************************
+Iteracja:  69
+Podejrzane pary osob i dni:  2456.0
+Podejrzane pary:  2436
+Histogram:  {1.0: 497662, 2.0: 2426, 3.0: 10}
+Liczba podejrzanych osob:  3596.0
+***************************************
+Iteracja:  70
+Podejrzane pary osob i dni:  2504.0
+Podejrzane pary:  2484
+Histogram:  {1.0: 497033, 2.0: 2474, 3.0: 10}
+Liczba podejrzanych osob:  3680.0
+***************************************
+Iteracja:  71
+Podejrzane pary osob i dni:  2447.0
+Podejrzane pary:  2435
+Histogram:  {1.0: 491662, 2.0: 2429, 3.0: 6}
+Liczba podejrzanych osob:  3602.0
+***************************************
+Iteracja:  72
+Podejrzane pary osob i dni:  2610.0
+Podejrzane pary:  2584
+Histogram:  {1.0: 502847, 2.0: 2571, 3.0: 13}
+Liczba podejrzanych osob:  3723.0
+***************************************
+Iteracja:  73
+Podejrzane pary osob i dni:  2521.0
+Podejrzane pary:  2507
+Histogram:  {1.0: 493636, 2.0: 2500, 3.0: 7}
+Liczba podejrzanych osob:  3680.0
+***************************************
+Iteracja:  74
+Podejrzane pary osob i dni:  2360.0
+Podejrzane pary:  2352
+Histogram:  {1.0: 494321, 2.0: 2348, 3.0: 4}
+Liczba podejrzanych osob:  3512.0
+***************************************
+Iteracja:  75
+Podejrzane pary osob i dni:  2562.0
+Podejrzane pary:  2542
+Histogram:  {1.0: 496996, 2.0: 2532, 3.0: 10}
+Liczba podejrzanych osob:  3717.0
+***************************************
+Iteracja:  76
+Podejrzane pary osob i dni:  2457.0
+Podejrzane pary:  2443
+Histogram:  {1.0: 498260, 2.0: 2436, 3.0: 7}
+Liczba podejrzanych osob:  3619.0
+***************************************
+Iteracja:  77
+Podejrzane pary osob i dni:  2415.0
+Podejrzane pary:  2403
+Histogram:  {1.0: 493505, 2.0: 2397, 3.0: 6}
+Liczba podejrzanych osob:  3588.0
+***************************************
+Iteracja:  78
+Podejrzane pary osob i dni:  2536.0
+Podejrzane pary:  2520
+Histogram:  {1.0: 495540, 2.0: 2512, 3.0: 8}
+Liczba podejrzanych osob:  3734.0
+***************************************
+Iteracja:  79
+Podejrzane pary osob i dni:  2347.0
+Podejrzane pary:  2331
+Histogram:  {1.0: 491272, 2.0: 2323, 3.0: 8}
+Liczba podejrzanych osob:  3515.0
+***************************************
+Iteracja:  80
+Podejrzane pary osob i dni:  2338.0
+Podejrzane pary:  2324
+Histogram:  {1.0: 498050, 2.0: 2317, 3.0: 7}
+Liczba podejrzanych osob:  3470.0
+***************************************
+Iteracja:  81
+Podejrzane pary osob i dni:  2483.0
+Podejrzane pary:  2465
+Histogram:  {1.0: 497448, 2.0: 2456, 3.0: 9}
+Liczba podejrzanych osob:  3645.0
+***************************************
+Iteracja:  82
+Podejrzane pary osob i dni:  2440.0
+Podejrzane pary:  2426
+Histogram:  {1.0: 498186, 2.0: 2419, 3.0: 7}
+Liczba podejrzanych osob:  3612.0
+***************************************
+Iteracja:  83
+Podejrzane pary osob i dni:  2419.0
+Podejrzane pary:  2399
+Histogram:  {1.0: 491664, 2.0: 2389, 3.0: 10}
+Liczba podejrzanych osob:  3555.0
+***************************************
+Iteracja:  84
+Podejrzane pary osob i dni:  2444.0
+Podejrzane pary:  2432
+Histogram:  {1.0: 496569, 2.0: 2426, 3.0: 6}
+Liczba podejrzanych osob:  3612.0
+***************************************
+Iteracja:  85
+Podejrzane pary osob i dni:  2579.0
+Podejrzane pary:  2565
+Histogram:  {1.0: 493013, 2.0: 2558, 3.0: 7}
+Liczba podejrzanych osob:  3745.0
+***************************************
+Iteracja:  86
+Podejrzane pary osob i dni:  2496.0
+Podejrzane pary:  2478
+Histogram:  {1.0: 497409, 2.0: 2469, 3.0: 9}
+Liczba podejrzanych osob:  3700.0
+***************************************
+Iteracja:  87
+Podejrzane pary osob i dni:  2476.0
+Podejrzane pary:  2458
+Histogram:  {1.0: 497297, 2.0: 2449, 3.0: 9}
+Liczba podejrzanych osob:  3654.0
+***************************************
+Iteracja:  88
+Podejrzane pary osob i dni:  2597.0
+Podejrzane pary:  2587
+Histogram:  {1.0: 499760, 2.0: 2582, 3.0: 5}
+Liczba podejrzanych osob:  3757.0
+***************************************
+Iteracja:  89
+Podejrzane pary osob i dni:  2531.0
+Podejrzane pary:  2509
+Histogram:  {1.0: 504379, 2.0: 2498, 3.0: 11}
+Liczba podejrzanych osob:  3689.0
+***************************************
+Iteracja:  90
+Podejrzane pary osob i dni:  2460.0
+Podejrzane pary:  2439
+Histogram:  {1.0: 499077, 2.0: 2430, 3.0: 8, 4.0: 1}
+Liczba podejrzanych osob:  3618.0
+***************************************
+Iteracja:  91
+Podejrzane pary osob i dni:  2442.0
+Podejrzane pary:  2422
+Histogram:  {1.0: 494025, 2.0: 2412, 3.0: 10}
+Liczba podejrzanych osob:  3610.0
+***************************************
+Iteracja:  92
+Podejrzane pary osob i dni:  2424.0
+Podejrzane pary:  2408
+Histogram:  {1.0: 488231, 2.0: 2400, 3.0: 8}
+Liczba podejrzanych osob:  3579.0
+***************************************
+Iteracja:  93
+Podejrzane pary osob i dni:  2464.0
+Podejrzane pary:  2450
+Histogram:  {1.0: 489773, 2.0: 2443, 3.0: 7}
+Liczba podejrzanych osob:  3614.0
+***************************************
+Iteracja:  94
+Podejrzane pary osob i dni:  2468.0
+Podejrzane pary:  2454
+Histogram:  {1.0: 496273, 2.0: 2447, 3.0: 7}
+Liczba podejrzanych osob:  3604.0
+***************************************
+Iteracja:  95
+Podejrzane pary osob i dni:  2442.0
+Podejrzane pary:  2426
+Histogram:  {1.0: 490792, 2.0: 2418, 3.0: 8}
+Liczba podejrzanych osob:  3582.0
+***************************************
+Iteracja:  96
+Podejrzane pary osob i dni:  2552.0
+Podejrzane pary:  2532
+Histogram:  {1.0: 498000, 2.0: 2522, 3.0: 10}
+Liczba podejrzanych osob:  3735.0
+***************************************
+Iteracja:  97
+Podejrzane pary osob i dni:  2541.0
+Podejrzane pary:  2533
+Histogram:  {1.0: 492863, 2.0: 2529, 3.0: 4}
+Liczba podejrzanych osob:  3725.0
+***************************************
+Iteracja:  98
+Podejrzane pary osob i dni:  2414.0
+Podejrzane pary:  2394
+Histogram:  {1.0: 491567, 2.0: 2384, 3.0: 10}
+Liczba podejrzanych osob:  3602.0
+***************************************
+Iteracja:  99
+Podejrzane pary osob i dni:  2472.0
+Podejrzane pary:  2456
+Histogram:  {1.0: 497642, 2.0: 2448, 3.0: 8}
+Liczba podejrzanych osob:  3595.0
+***************************************
+Iteracja:  100
+Podejrzane pary osob i dni:  2442.0
+Podejrzane pary:  2436
+Histogram:  {1.0: 494220, 2.0: 2433, 3.0: 3}
+Liczba podejrzanych osob:  3557.0
+***************************************
+
+Wyniki ostateczne:
+Podejrzane pary osob i dni:  2475.0
+Podejrzane pary:  2459
+Histogram:  {1.0: 495073, 2.0: 2451, 3.0: 7, 4.0: 0}
+Liczba podejrzanych osob:  3631.0

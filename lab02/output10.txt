@@ -1,0 +1,73 @@
+Wejscie:
+people_number:  10000
+hotels_number:  100
+days_number:  100
+probability:  0.1
+amount_repetitions:  10
+*********************************
+Iteracja:  1
+Podejrzane pary osob i dni:  2425.0
+Podejrzane pary:  2405
+Histogram:  {1.0: 493926, 2.0: 2395, 3.0: 10}
+Liczba podejrzanych osob:  3554.0
+***************************************
+Iteracja:  2
+Podejrzane pary osob i dni:  2570.0
+Podejrzane pary:  2554
+Histogram:  {1.0: 498772, 2.0: 2546, 3.0: 8}
+Liczba podejrzanych osob:  3721.0
+***************************************
+Iteracja:  3
+Podejrzane pary osob i dni:  2560.0
+Podejrzane pary:  2536
+Histogram:  {1.0: 497304, 2.0: 2524, 3.0: 12}
+Liczba podejrzanych osob:  3724.0
+***************************************
+Iteracja:  4
+Podejrzane pary osob i dni:  2456.0
+Podejrzane pary:  2448
+Histogram:  {1.0: 495739, 2.0: 2444, 3.0: 4}
+Liczba podejrzanych osob:  3659.0
+***************************************
+Iteracja:  5
+Podejrzane pary osob i dni:  2495.0
+Podejrzane pary:  2477
+Histogram:  {1.0: 490053, 2.0: 2468, 3.0: 9}
+Liczba podejrzanych osob:  3645.0
+***************************************
+Iteracja:  6
+Podejrzane pary osob i dni:  2487.0
+Podejrzane pary:  2465
+Histogram:  {1.0: 490244, 2.0: 2454, 3.0: 11}
+Liczba podejrzanych osob:  3632.0
+***************************************
+Iteracja:  7
+Podejrzane pary osob i dni:  2399.0
+Podejrzane pary:  2375
+Histogram:  {1.0: 492059, 2.0: 2363, 3.0: 12}
+Liczba podejrzanych osob:  3527.0
+***************************************
+Iteracja:  8
+Podejrzane pary osob i dni:  2358.0
+Podejrzane pary:  2344
+Histogram:  {1.0: 497017, 2.0: 2337, 3.0: 7}
+Liczba podejrzanych osob:  3484.0
+***************************************
+Iteracja:  9
+Podejrzane pary osob i dni:  2423.0
+Podejrzane pary:  2407
+Histogram:  {1.0: 492700, 2.0: 2399, 3.0: 8}
+Liczba podejrzanych osob:  3591.0
+***************************************
+Iteracja:  10
+Podejrzane pary osob i dni:  2506.0
+Podejrzane pary:  2488
+Histogram:  {1.0: 496467, 2.0: 2479, 3.0: 9}
+Liczba podejrzanych osob:  3663.0
+***************************************
+
+Wyniki ostateczne:
+Podejrzane pary osob i dni:  2467.0
+Podejrzane pary:  2449
+Histogram:  {1.0: 494428, 2.0: 2440, 3.0: 9}
+Liczba podejrzanych osob:  3620.0
