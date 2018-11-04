@@ -56,7 +56,11 @@ for i in range(amount_repetitions):
       analysis_pair = count_meeting[person][next_person]
       if analysis_pair > 1:
         r_suspecious_pairs += 1
-        # osob_i_dni = (Spotkan_pary*(spotkan_pary-1))/2
+        '''
+        Osob_i_dni = (Spotkan_pary*(spotkan_pary-1))/2
+        Maks podejrzanych osob: liczba_par * 2
+        Min podejrzanych osob: (dla 10 jest 4, bo sqrt(2*10))
+        '''
         r_suspecious_pairs_days += (analysis_pair * (analysis_pair-1)) // 2
         r_suspecious_people[person] = 1
         r_suspecious_people[next_person] = 1
